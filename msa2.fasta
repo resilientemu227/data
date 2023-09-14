@@ -1,0 +1,966 @@
+>A0JNM6|reviewed|Lysozyme-like protein 1|taxID:9913
+------------------------------------------------------------
+-------------MKA----------------AGILALMGCL-VTVVE-PKVY-TRCKLA
+KIFSRASLDNYRGFSLGNWICMAYYESHYNTTAQTQLE-DGSTDYGIFQINSDT---WCR
+STK---LQ-EKNRCHVACSALMTDDLTDAIICAKKIVKETDGMNYWQGWKKNCEGRD-LS
+EWKKGCEVS---------------------------------------------------
+-----
+>Q6UWQ5|reviewed|Lysozyme-like protein 1|taxID:9606
+------------------------------------------------------------
+-------------MKA----------------AGILTLIGCL-VTGAE-SKIY-TRCKLA
+KIFSRAGLDNYWGFSLGNWICMAYYESGYNTTAQTVLD-DGSIDYGIFQINSFA---WCR
+RGK---LK-ENNHCHVACSALITDDLTDAIICARKIVKETQGMNYWQGWKKHCEGRD-LS
+EWKKGCEVS---------------------------------------------------
+-----
+>Q7Z4W2|reviewed|Lysozyme-like protein 2|taxID:9606
+------------------------------------------------------------
+-------------MKA----------------AGILTLIGCL-VTGAE-SKIY-TRCKLA
+KIFSRAGLDNYWGFSLGNWICMAYYESGYNTTAQTVLD-DGSIDYGIFQINSFA---WCR
+RGK---LK-ENNHCHVACSALVTDDLTDAIICAKKIVKETQGMNYWQGWKKHCEGRD-LS
+DWKKDCEVS---------------------------------------------------
+-----
+>Q9CPX3|reviewed|Lysozyme-like protein 1|taxID:10090
+------------------------------------------------------------
+-------------MKS----------------VGVFALIISF-SIVAE-SKIY-TRCKLA
+KIFAKAGLDNYGGFALGNWLCMAYYESHYNTTAENVLE-DGSTDYGIFQINSFT---WCR
+NAR---KH-QKNHCHVACSALITDDLTDAILCAKKIVKETQGMNYWQGWKKNCENKD-MS
+EWKRGCEVS---------------------------------------------------
+-----
+>A2AE20|reviewed|Sperm acrosome-associated protein 5|taxID:10090
+------------------------------------------------------------
+-------------MKVCS--------------IVVVILAVLL-IAKLD-AKIY-ERCELA
+KKLEEAGLDGFKGYTVGDWLCVAHYESGFDTSFVDHNP-DGSSEYGIFQLNSAW---WCN
+NGI---TP-TQNLCNIDCNDLLNRHILDDIICAKRVASSHKSMKAWDSWTQHCAGHD-LS
+EWLKGCSVRLKTD----------SSYNN--------------------------------
+----W
+>Q32PD6|reviewed|Sperm acrosome-associated protein 5|taxID:9913
+------------------------------------------------------------
+-------------MQVSG--------------TIVV---ILM-AANVE-AKIY-ERCDLA
+KKLEAAGLNGFKGYTIGDWLCMAHYESGFDTSFVNHNP-DGSSEYGIFQLNSAW---WCY
+NGV---TP-SENLCHMDCHELLNRHILDDIMCAKKVVSSESGMSAWDSWNQHCYGYD-LS
+EWLRGCHMNAKPN----------KKIIS--------------------------------
+-----
+>Q96QH8|reviewed|Sperm acrosome-associated protein 5|taxID:9606
+------------------------------------------------------------
+-------------MKAWG--------------TVVVTLATLM-VVTVD-AKIY-ERCELA
+ARLERAGLNGYKGYGVGDWLCMAHYESGFDTAFVDHNP-DGSSEYGIFQLNSAW---WCD
+NGI---TP-TKNLCHMDCHDLLNRHILDDIRCAKQIVSSQNGLSAWTSWRLHCSGHD-LS
+EWLKGCDMHVKID----------PKIHP--------------------------------
+-----
+>G3XDT7|reviewed|Lysozyme C|taxID:8790
+------------------------------------------------------------
+-------------MKF-----------------FLILGFCLL-PLIAQ-GKVF-QRCELA
+AAMKKHGLSNYRGYSLGHWVCAAKYESNFNTAAINRNR-DGSSDYGILQINSRW---WCN
+DGR---TSGAKNLCKISCSALLSSDITASVNCAKRVVSDKNGMNAWVAWRNHCKGRD-VS
+QWIRGCRV----------------------------------------------------
+-----
+>P00698|reviewed|Lysozyme C|taxID:9031
+------------------------------------------------------------
+-------------MRS-----------------LLILVLCFL-PLAAL-GKVF-GRCELA
+AAMKRHGLDNYRGYSLGNWVCAAKFESNFNTQATNRNT-DGSTDYGILQINSRW---WCN
+DGR---TPGSRNLCNIPCSALLSSDITASVNCAKKIVSDGNGMNAWVAWRNRCKGTD-VQ
+AWIRGCRL----------------------------------------------------
+-----
+>P00699|reviewed|Lysozyme C|taxID:67771
+------------------------------------------------------------
+--------------------------------------------------KVF-GRCELA
+AAMKRHGLDNYRGYSLGNWVCAAKFESNFNSQATNRNT-DGSTDYGVLQINSRW---WCN
+DGR---TPGSRNLCNIPCSALLSSDITATVNCAKKIVSDGNGMNAWVAWRNRCKGTD-VH
+AWIRGCRL----------------------------------------------------
+-----
+>P00700|reviewed|Lysozyme C|taxID:9014
+------------------------------------------------------------
+--------------------------------------------------KVF-GRCELA
+AAMKRHGLDNYRGYSLGNWVCAAKFESNFNSQATNRNT-DGSTDYGVLQINSRW---WCN
+DGK---TPGSRNLCNIPCSALLSSDITATVNCAKKIVSDGNGMNAWVAWRNRCKGTD-VQ
+AWIRGCRL----------------------------------------------------
+-----
+>P00703|reviewed|Lysozyme C|taxID:9103
+------------------------------------------------------------
+-------------MRS-----------------LLILVLCFL-PLAAL-GKVY-GRCELA
+AAMKRLGLDNYRGYSLGNWVCAAKFESNFNTHATNRNT-DGSTDYGILQINSRW---WCN
+DGR---TPGSKNLCNIPCSALLSSDITASVNCAKKIASGGNGMNAWVAWRNRCKGTD-VH
+AWIRGCRL----------------------------------------------------
+-----
+>Q7LZT2|reviewed|Lysozyme C|taxID:9071
+------------------------------------------------------------
+--------------------------------------------------KVY-GRCELA
+AAMKRLGLDNYRGYSLGNWVCAAKFESNFNTHATNRNT-DGSTDYGILQINSRW---WCN
+DGR---TPGSRNLCNIPCSALLSSDITASVNCAKKIVSGGNGMSAWVAWRNRCKGTD-VH
+AWIRGCRL----------------------------------------------------
+-----
+>P19849|reviewed|Lysozyme C|taxID:9049
+------------------------------------------------------------
+--------------------------------------------------KVY-GRCELA
+AAMKRLGLDNYRGYSLGNWVCAAKFESNFNTHATNRNT-DGSTDYGILQINSRW---WCN
+DGR---TPGSRNLCNIPCSALLSSDITASVNCAKKIVSDRNGMNAWVAWRNRCKGTD-VH
+AWIRGCRL----------------------------------------------------
+-----
+>Q7LZP9|reviewed|Lysozyme C|taxID:9040
+------------------------------------------------------------
+--------------------------------------------------KVY-GRCELA
+AAMKRLGLDNYRGYSLGNWVCAAKFESNFNTHATNRNT-DGSTDYGILQINSRW---WCN
+DGR---TPGSRNLCNIPCSALLSSDITASVNCAKKIVSDGNGMNAWVAWRNRCKGTD-VH
+AWIRGCRL----------------------------------------------------
+-----
+>Q7LZQ0|reviewed|Lysozyme C|taxID:9085
+------------------------------------------------------------
+--------------------------------------------------KVY-GRCELA
+AAMKRLGLDNYRGYSLGNWVCAAKFESNFNTHATNRNT-DGSTDYGILQINSRW---WCN
+DGR---TPGSRNLCNIPCSALLSSDITASVNCAKKIVSDGNGMNAWVAWRNRCKGTD-VH
+AWIRGCRL----------------------------------------------------
+-----
+>Q7LZI3|reviewed|Lysozyme C|taxID:9070
+------------------------------------------------------------
+--------------------------------------------------KVY-GRCELA
+AAMKRLGLDNYRGYSLGNWVCAAKFESNFNTHATNRNT-DGSTDYGILQINSRW---WCN
+DGR---TPGSRNLCNIPCSALLSSDITASVNCAKKIVSGGSGMNAWVAWRNRCKGTD-VQ
+AWIRGCRL----------------------------------------------------
+-----
+>P22910|reviewed|Lysozyme C|taxID:9088
+------------------------------------------------------------
+--------------------------------------------------KVY-GRCELA
+AAMKRLGLDNYRGYSLGNWVCAAKFESNFNTHATNRNT-DGSTDYGILQINSRW---WCN
+DGR---TPGSRNLCHIPCSALLSSDITASVNCAKKIVSDGNGMNAWVAWRNRCKGTD-VN
+AWTRGCRL----------------------------------------------------
+-----
+>P24364|reviewed|Lysozyme C|taxID:140445
+------------------------------------------------------------
+--------------------------------------------------KVY-GRCELA
+AAMKRLGLDNYRGYSLGNWVCAAKYESNFNTHATNRNT-DGSTDYGILQINSRW---WCN
+DGK---TPGSRNLCHIPCSALLSSDITASVNCAKKIVSDGNGMNAWVAWRNRCKGTD-VS
+VWTRGCRL----------------------------------------------------
+-----
+>P24533|reviewed|Lysozyme C|taxID:9066
+------------------------------------------------------------
+--------------------------------------------------KVY-GRCELA
+AAMKRLGLDNYRGYSLGNWVCAAKFESNFNTHATNRNT-DGSTDYGILQINSRW---WCN
+DGR---TPGSRNLCHISCSALLSSDITASVNCAKKIVSDRNGMNAWVAWRNRCKGTD-VN
+AWIRGCRL----------------------------------------------------
+-----
+>P81711|reviewed|Lysozyme C|taxID:9067
+------------------------------------------------------------
+--------------------------------------------------KVY-GRCELA
+AAMKRLGLDNFRGYSLGNWVCAAKFESNFNTHATNRNT-DGSTDYGILQINSRW---WCN
+DGR---TPGSRNLCNIPCSALLSSDTIASVNCAKKIVSDGNGMNAWVAWRKRCKGTD-VN
+AWTRGCRL----------------------------------------------------
+-----
+>P00701|reviewed|Lysozyme C|taxID:93934
+------------------------------------------------------------
+-------------MRS-----------------LLVLVLCFL-PLAAL-GKVY-GRCELA
+AAMKRHGLDKYQGYSLGNWVCAAKFESNFNTQATNRNT-DGSTDYGILQINSRW---WCN
+DGR---TPGSRNLCNIPCSALLSSDITASVNCAKKIVSDVHGMNAWVAWRNRCKGTD-VN
+AWIRGCRL----------------------------------------------------
+-----
+>P00704|reviewed|Lysozyme C|taxID:8996
+------------------------------------------------------------
+--------------------------------------------------KVF-GRCELA
+AAMKRHGLDNYRGYSLGNWVCAAKFESNFNSQATNRNT-DGSTDYGVLQINSRW---WCN
+DGR---TPGSRNLCNIPCSALQSSDITATANCAKKIVSDGNGMNAWVAWRKHCKGTD-VR
+VWIKGCRL----------------------------------------------------
+-----
+>P00702|reviewed|Lysozyme C|taxID:9057
+------------------------------------------------------------
+-------------MRS-----------------LLILVLCFL-PLAAP-GKVY-GRCELA
+AAMKRMGLDNYRGYSLGNWVCAAKFESNFNTGATNRNT-DGSTDYGILQINSRW---WCN
+DGR---TPGSKNLCHIPCSALLSSDITASVNCAKKIVSDGNGMNAWVAWRKHCKGTD-VN
+VWIRGCRL----------------------------------------------------
+-----
+>P00705|reviewed|Lysozyme C-1|taxID:8839
+------------------------------------------------------------
+-------------MKA-----------------LLTLVFCLL-PLAAQ-GKVY-SRCELA
+AAMKRLGLDNYRGYSLGNWVCAANYESGFNTQATNRNT-DGSTDYGILQINSRW---WCD
+NGK---TPRSKNACGIPCSVLLRSDITEAVRCAKRIVSDGDGMNAWVAWRNRCRGTD-VS
+KWIRGCRL----------------------------------------------------
+-----
+>P00706|reviewed|Lysozyme C-3|taxID:8839
+------------------------------------------------------------
+--------------------------------------------------KVY-ERCELA
+AAMKRLGLDNYRGYSLGNWVCAANYESSFNTQATNRNT-DGSTDYGILEINSRW---WCD
+NGK---TPRAKNACGIPCSVLLRSDITEAVKCAKRIVSDGDGMNAWVAWRNRCKGTD-VS
+RWIRGCRL----------------------------------------------------
+-----
+>Q7LZQ2|reviewed|Lysozyme C|taxID:8833
+------------------------------------------------------------
+--------------------------------------------------KVY-ERCELA
+AAMKRLGLDNYRGYSLGNWVCAAKYESNFNTQATNRNT-DGSTDYGILEINSRW---WCN
+DGK---TPGAKNVCGIPCSVLLRSDITEAVKCAKRIVSDGNGMNAWVAWRNRCKGTD-VS
+RWIRGCRL----------------------------------------------------
+-----
+>P00707|reviewed|Lysozyme C|taxID:8984
+------------------------------------------------------------
+--------------------------------------------------KIY-KRCELA
+AAMKRYGLDNYRGYSLGNWVCAARYESNYNTQATNRNS-NGSTDYGILQINSRW---WCN
+DGR---TPGTKNLCHISCSALMGADIAPSVRCAKRIVSDGDGMNAWVAWRKHCKGTD-VS
+TWIKDCKL----------------------------------------------------
+-----
+>Q7LZQ3|reviewed|Lysozyme C|taxID:84988
+------------------------------------------------------------
+--------------------------------------------------KIY-TRCELA
+AAMKRYGLDNYQGYSLGNWVCAARYESNYNTQATNRNS-DGSTDYGILQINSRW---WCN
+DGK---TPGTRNLCHISCSALMGADIAPSVRCAKKIVSDGNGMNAWVAWRKHCKGTD-VS
+KWIKDCKL----------------------------------------------------
+-----
+>P84492|reviewed|Lysozyme C|taxID:8469
+------------------------------------------------------------
+--------------------------------------------------KTY-ERCELA
+RAMKRLGLDGYWGYSLGHWVCAAKYESNFNTGATNYNPGDQSTDYGILQINSRW---WCN
+DGK---TPRTKNACKIQCRELLTADITASVNCAKRVVRDPNGMGAWVAWTKNCKGRD-VS
+PWIRDCGL----------------------------------------------------
+-----
+>P85345|reviewed|Lysozyme C|taxID:161655
+------------------------------------------------------------
+--------------------------------------------------KIY-EQCEAA
+REMKRLGLDGYDGYSLGDWVCTAKHESNFNTGATNYNRGDQSTDYGIFQINSRW---WCN
+DGK---TPNAKNACGIECSELLKADITAAVICAKRVVRDPNGMGAWVAWTKYCKGKD-VS
+QWIKGCKL----------------------------------------------------
+-----
+>Q7LZQ1|reviewed|Lysozyme C|taxID:13735
+------------------------------------------------------------
+-------------------------------------------------GKIY-EQCELA
+REFKRHGMDGYHGYSLGDWVCTAKHESNFNTAATNYNRGDQSTDYGILQINSRW---WCN
+DGK---TPKAKNACGIECSELLKADITAAVNCAKRIVRDPNGMGAWVAWTKYCKGKD-VS
+QWIKGCKL----------------------------------------------------
+-----
+>P00697|reviewed|Lysozyme C-1|taxID:10116
+------------------------------------------------------------
+-------------MKA-----------------LLVLGFLLL-SASVQ-AKIY-ERCQFA
+RTLKRNGMSGYYGVSLADWVCLAQHESNYNTQARNYNPGDQSTDYGIFQINSRY---WCN
+DGK---TPRAKNACGIPCSALLQDDITQAIQCAKRVVRDPQGIRAWVAWQRHCKNRD-LS
+GYIRNCGV----------------------------------------------------
+-----
+>P08905|reviewed|Lysozyme C-2|taxID:10090
+------------------------------------------------------------
+-------------MKT-----------------LLTLGLLLL-SVTAQ-AKVY-ERCEFA
+RTLKRNGMAGYYGVSLADWVCLAQHESNYNTRATNYNRGDQSTDYGIFQINSRY---WCN
+DGK---TPRAVNACGINCSALLQDDITAAIQCAKRVVRDPQGIRAWVAWRAHCQNRD-LS
+QYIRNCGV----------------------------------------------------
+-----
+>P17897|reviewed|Lysozyme C-1|taxID:10090
+------------------------------------------------------------
+-------------MKA-----------------LLTLGLLLL-SVTAQ-AKVY-NRCELA
+RILKRNGMDGYRGVKLADWVCLAQHESNYNTRATNYNRGDRSTDYGIFQINSRY---WCN
+DGK---TPRSKNACGINCSALLQDDITAAIQCAKRVVRDPQGIRAWVAWRTQCQNRD-LS
+QYIRNCGV----------------------------------------------------
+-----
+>Q05820|reviewed|Putative lysozyme C-2|taxID:10116
+------------------------------------------------------------
+-------------MKA-----------------LLVLGFLLL-SASVQ-AKVF-KHCELA
+RILRSSALAGYRGVSLENWMCMAQHESNFDTEAINYNSTDQSTDYGIFQINSRY---WCN
+DGK---TPRAVNACGIPCSALLQDDITQAIQCAKRVVRDPQGIRAWVAWQRHCQNRD-LS
+GYIRNCGV----------------------------------------------------
+-----
+>P16973|reviewed|Lysozyme C|taxID:9986
+------------------------------------------------------------
+--------------------------------------------------KIY-ERCELA
+RTLKKLGLDGYKGVSLANWMCLAKWESSYNTRATNYNPGDKSTDYGIFQINSRY---WCN
+DGK---TPRAVNACHIPCSDLLKDDITQAVACAKRVVSDPQGIRAWVAWRNHCQNQD-LT
+PYIRGCGV----------------------------------------------------
+-----
+>P81709|reviewed|Lysozyme C, spleen isozyme|taxID:9615
+------------------------------------------------------------
+--------------------------------------------------KIF-ERCELA
+RTLKNLGLAGYKGVSLANWVCLAKWESNYNTRATNYNPGSKSTDYGIFQINSRY---WCN
+DGK---TPRAVNACHISCSALLQDDITQAVACAKRVVSDPNGIRAWVAWRAHCENRD-VS
+QYVRNCGV----------------------------------------------------
+-----
+>Q659U0|reviewed|Lysozyme C|taxID:9713
+------------------------------------------------------------
+-------------MKA-----------------PLLLGLLLL-SVTVQ-GKVF-ERCDLA
+RTLKRLGLAGFKGVSLANWMCLAKWESDYNTKATNYNPGSRSTDYGIFQINSRY---WCN
+DGK---TPRAVNSCHIPCSDLLKDDITQAVACAKRVVSDPNGIRAWVAWRAHCENQD-VS
+QYVRNCGV----------------------------------------------------
+-----
+>Q659U1|reviewed|Lysozyme C|taxID:9720
+------------------------------------------------------------
+-------------MKA-----------------LLLLGLLLL-SVTVQ-GKIF-ERCDLA
+RTLKRLGLAGFKGVSLANWMCLAKWESNYNTKATNYNPGSRSTDYGIFQINSRY---WCN
+DGK---TPRAVNACHIPCSDLLKDDITQAVACAKRVVSDPNGIRAWVAWRAHCENQD-VS
+QYVRNCGV----------------------------------------------------
+-----
+>Q659U5|reviewed|Lysozyme C|taxID:9711
+------------------------------------------------------------
+-------------MKA-----------------LLLLGLLLL-SVTVQ-GKIF-ERCDLA
+RTLKRLGLAGFKGVSLANWMCLAKWESNYNTKATNYNPGSRSTDYGIFQINSRY---WCN
+DGK---TPRAVNACHIPCSDLLKDDITQAVACAKRVVSDPNGIRAWVAWRAHCENQD-VS
+QYVRNCGV----------------------------------------------------
+-----
+>P30201|reviewed|Lysozyme C|taxID:9544
+------------------------------------------------------------
+-------------MKA-----------------VIILGLVLL-SVTVQ-GKIF-ERCELA
+RTLKRLGLDGYRGISLANWVCLAKWESNYNTQATNYNPGDQSTDYGIFQINSHY---WCN
+NGK---TPGAVNACHISCNALLQDNIADAVTCAKRVVSDPQGIRAWVAWRNHCQNRD-VS
+QYVQGCGV----------------------------------------------------
+-----
+>P61629|reviewed|Lysozyme C|taxID:9555
+------------------------------------------------------------
+-------------MKA-----------------VIILGLVLL-SVTVQ-GKIF-ERCELA
+RTLKRLGLDGYRGISLANWVCLAKWESDYNTQATNYNPGDQSTDYGIFQINSHY---WCN
+NGK---TPGAVNACHISCNALLQDNIADAVTCAKRVVSDPQGIRAWVAWRNHCQNRD-VS
+QYVQGCGV----------------------------------------------------
+-----
+>P61630|reviewed|Lysozyme C|taxID:9531
+------------------------------------------------------------
+-------------MKA-----------------VIILGLVLL-SVTVQ-GKIF-ERCELA
+RTLKRLGLDGYRGISLANWVCLAKWESDYNTQATNYNPGDQSTDYGIFQINSHY---WCN
+NGK---TPGAVNACHISCNALLQDNIADAVTCAKRVVSDPQGIRAWVAWRNHCQNRD-VS
+QYVQGCGV----------------------------------------------------
+-----
+>P79806|reviewed|Lysozyme C|taxID:36231
+------------------------------------------------------------
+-------------MKA-----------------VIILGLVLL-SVTVQ-GKIF-ERCELA
+RTLKRLGLDGYRGISLANWVCLAKWESDYNTQATNYNPGDQSTDYGIFQINSHY---WCN
+NGK---TPGAVNACHISCNALLQDNIADAVTCAKRVVRDPQGIRAWVAWRNHCHNRD-VS
+QYVQGCGV----------------------------------------------------
+-----
+>P61633|reviewed|Lysozyme C|taxID:9534
+------------------------------------------------------------
+-------------MKA-----------------VIILGLVLL-SVTVQ-GKIF-ERCELA
+RTLKRLGLDGYRGISLANWVCLAKWESGYNTQATNYNPGDQSTDYGIFQINSHY---WCN
+NGK---TPGAVNACHISCNALLQDNIADAVTCAKRVVRDPQGIRAWVAWRNHCQNRD-VS
+QYVQGCGV----------------------------------------------------
+-----
+>P61634|reviewed|Lysozyme C|taxID:9538
+------------------------------------------------------------
+-------------MKA-----------------VIILGLVLL-SVTVQ-GKIF-ERCELA
+RTLKRLGLDGYRGISLANWVCLAKWESGYNTQATNYNPGDQSTDYGIFQINSHY---WCN
+NGK---TPGAVNACHISCNALLQDNIADAVTCAKRVVRDPQGIRAWVAWRNHCQNRD-VS
+QYVQGCGV----------------------------------------------------
+-----
+>P61631|reviewed|Lysozyme C|taxID:54131
+------------------------------------------------------------
+-------------MKA-----------------LIILGLVLL-SVTVQ-GKIF-ERCELA
+RTLKKLGLDGYKGVSLANWVCLAKWESGYNTDATNYNPGDESTDYGIFQINSRY---WCN
+NGK---TPGAVNACHISCNALLQNNIADAVACAKRVVSDPQGIRAWVAWKKHCQNRD-VS
+QYVEGCGV----------------------------------------------------
+-----
+>P61632|reviewed|Lysozyme C|taxID:33548
+------------------------------------------------------------
+-------------MKA-----------------LIILGLVLL-SVTVQ-GKIF-ERCELA
+RTLKKLGLDGYKGVSLANWVCLAKWESGYNTDATNYNPGDESTDYGIFQINSRY---WCN
+NGK---TPGAVNACHISCNALLQNNIADAVACAKRVVSDPQGIRAWVAWKKHCQNRD-VS
+QYVEGCGV----------------------------------------------------
+-----
+>P67977|reviewed|Lysozyme C|taxID:88029
+------------------------------------------------------------
+-------------MKA-----------------LTILGLVLL-SVTVQ-GKIF-ERCELA
+RTLKKLGLDGYKGVSLANWVCLAKWESGYNTEATNYNPGDESTDYGIFQINSRY---WCN
+NGK---TPGAVDACHISCSALLQNNIADAVACAKRVVSDPQGIRAWVAWRNHCQNKD-VS
+QYVKGCGV----------------------------------------------------
+-----
+>P67978|reviewed|Lysozyme C|taxID:54137
+------------------------------------------------------------
+-------------MKA-----------------LTILGLVLL-SVTVQ-GKIF-ERCELA
+RTLKKLGLDGYKGVSLANWVCLAKWESGYNTEATNYNPGDESTDYGIFQINSRY---WCN
+NGK---TPGAVDACHISCSALLQNNIADAVACAKRVVSDPQGIRAWVAWRNHCQNKD-VS
+QYVKGCGV----------------------------------------------------
+-----
+>P67979|reviewed|Lysozyme C|taxID:54181
+------------------------------------------------------------
+-------------MRA-----------------LIILGLVLL-SVTVQ-GKIF-ERCELA
+RTLKKLGLDGYKGVSLANWVCLAKWESGYNTEATNYNPGDESTDYGIFQINSRY---WCN
+NGK---TPGAVDACHISCSALLQNNIADAVACAKRVVSDPQGIRAWVAWRNHCQNKD-VS
+QYVKGCGV----------------------------------------------------
+-----
+>P67980|reviewed|Lysozyme C|taxID:54180
+------------------------------------------------------------
+-------------MRA-----------------LIILGLVLL-SVTVQ-GKIF-ERCELA
+RTLKKLGLDGYKGVSLANWVCLAKWESGYNTEATNYNPGDESTDYGIFQINSRY---WCN
+NGK---TPGAVDACHISCSALLQNNIADAVACAKRVVSDPQGIRAWVAWRNHCQNKD-VS
+QYVKGCGV----------------------------------------------------
+-----
+>P79847|reviewed|Lysozyme C|taxID:54133
+------------------------------------------------------------
+-------------MKA-----------------LIILGLVLL-SVTVQ-GKIF-ERCELA
+RTLKKLGLDGYKGVSLANWVCLAKWESGYNTEATNYNPGDESTDYGIFQINSRY---WCN
+NGK---TPGAVDACHISCSALLQNNIADAVACAKRVVSDPQGVRAWVAWRNHCQNKD-VS
+QYVKGCGV----------------------------------------------------
+-----
+>P79158|reviewed|Lysozyme C|taxID:9483
+------------------------------------------------------------
+-------------MKV-----------------LIILGLVLL-SVMVQ-GKVF-ERCELA
+RTLKRFGLDGYRGISLANWMCLAKWESDYNTRATNYNPGDQSTDYGIFQINSHY---WCN
+NGR---TPGAVNACHISCNALLQDDITEAVACAKRVVRDPQGIRAWVAWKAHCQNRD-VS
+QYVQGCGV----------------------------------------------------
+-----
+>P79268|reviewed|Lysozyme C|taxID:9490
+------------------------------------------------------------
+-------------MKV-----------------LILLGLVLL-SVMVQ-GKVF-ERCELA
+RTLKRLGLDGYRGISLANWMCLAKWESDYNTRATNYNPGDQSTDYGIFQINSHY---WCN
+NGR---TPGAVNACHISCNALLQDDITEAVACAKRVVRDPQGIRAWVAWKAHCQNRD-VS
+QYIQGCGV----------------------------------------------------
+-----
+>P79294|reviewed|Lysozyme C|taxID:9521
+------------------------------------------------------------
+-------------MKV-----------------LVILGLVLL-SVMVQ-GKVF-ERCELA
+RTLKRLGMDGYRGISLANWMCLAKWESDYNTRATNYNPGDQSTDYGIFQINSHY---WCN
+NGR---TPGAVNACHISCNALLQDDITQAVACAKRVVRDPQGIRAWVAWKAHCQNRD-VS
+QYVQGCGV----------------------------------------------------
+-----
+>P61626|reviewed|Lysozyme C|taxID:9606
+------------------------------------------------------------
+-------------MKA-----------------LIVLGLVLL-SVTVQ-GKVF-ERCELA
+RTLKRLGMDGYRGISLANWMCLAKWESGYNTRATNYNAGDRSTDYGIFQINSRY---WCN
+DGK---TPGAVNACHLSCSALLQDNIADAVACAKRVVRDPQGIRAWVAWRNRCQNRD-VR
+QYVQGCGV----------------------------------------------------
+-----
+>P61627|reviewed|Lysozyme C|taxID:9597
+------------------------------------------------------------
+-------------MKA-----------------LIVLGLVLL-SVTVQ-GKVF-ERCELA
+RTLKRLGMDGYRGISLANWMCLAKWESGYNTRATNYNAGDRSTDYGIFQINSRY---WCN
+DGK---TPGAVNACHLSCSALLQDNIADAVACAKRVVRDPQGIRAWVAWRNRCQNRD-VR
+QYVQGCGV----------------------------------------------------
+-----
+>P61628|reviewed|Lysozyme C|taxID:9598
+------------------------------------------------------------
+-------------MKA-----------------LIVLGLVLL-SVTVQ-GKVF-ERCELA
+RTLKRLGMDGYRGISLANWMCLAKWESGYNTRATNYNAGDRSTDYGIFQINSRY---WCN
+DGK---TPGAVNACHLSCSALLQDNIADAVACAKRVVRDPQGIRAWVAWRNRCQNRD-VR
+QYVQGCGV----------------------------------------------------
+-----
+>P79179|reviewed|Lysozyme C|taxID:9595
+------------------------------------------------------------
+-------------MKA-----------------LIVLGLVLL-SVMVQ-GKVF-ERCELA
+RTLKRLGMDGYRGISLANWMCLAKWESGYNTRATNYNAGDRSTDYGIFQINSRY---WCN
+DGK---TPGAVNACHLSCSALLQDNIADAVACAKRVVRDPQGIRAWVAWRNRCQNRD-VR
+QYVQGCGV----------------------------------------------------
+-----
+>P79180|reviewed|Lysozyme C|taxID:9580
+------------------------------------------------------------
+-------------MKA-----------------LIILGLVLL-SVMVQ-AKVF-ERCELA
+RTLKRLGMDGYRGISLANWMCLAKWESGYNTRATNYNPGDRSTDYGIFQINSRY---WCN
+DGK---TPGAVNACHLSCNALLQDNIADAVACAKRVVRDPQGIRAWVAWRNRCQNRD-LR
+QYIQGCGV----------------------------------------------------
+-----
+>P80189|reviewed|Lysozyme C, non-stomach isozyme|taxID:9913
+------------------------------------------------------------
+-------------MKA-----------------LLILGLLLF-SVAVQ-GKVF-ERCELA
+RSLKRFGMDNFRGISLANWMCLARWESNYNTQATNYNAGDQSTDYGIFQINSHW---WCN
+DGK---TPGAVNACHLPCGALLQDDITQAVACAKRVVSDPQGIRAWVAWRSHCQNQD-LT
+SYIQGCGV----------------------------------------------------
+-----
+>P80190|reviewed|Lysozyme C, kidney isozyme|taxID:9940
+------------------------------------------------------------
+--------------------------------------------------KVF-ERCELA
+RTLKRFGMDGFRGISLANWMCLARWESSYNTQATNYNSGDRSTDYGIFQINSHW---WCN
+DGK---TPGAVNACHIPCSALLQDDITQAVACAKRVVSDPQGIRAWVAWRSHCQNQD-LT
+SYIQGCGV----------------------------------------------------
+-----
+>Q6B411|reviewed|Lysozyme C, milk isozyme|taxID:9913
+------------------------------------------------------------
+-------------MKA-----------------LLIVGLLLL-SVAVQ-GKKF-QRCELA
+RTLKKLGLDGYRGVSLANWVCLARWESNYNTRATNYNRGDKSTDYGIFQINSRW---WCN
+DGK---TPKAVNACRIPCSALLKDDITQAVACAKRVVRDPQGIKAWVAWRNKCQNRD-LR
+SYVQGCRV----------------------------------------------------
+-----
+>P12068|reviewed|Lysozyme C-2|taxID:9823
+------------------------------------------------------------
+-------------MKT-----------------LLVLALLLL-SVSVQ-AKVY-DRCEFA
+RILKKSGMDGYRGVSLANWVCLAKWESDFNTKAINHNVG--STDYGIFQINSRY---WCN
+DGK---TPKAVNACHISCKVLLDDDLSQDIECAKRVVRDPLGVKAWVAWRAHCQNKD-VS
+QYIRGCKL----------------------------------------------------
+-----
+>P12069|reviewed|Lysozyme C-3|taxID:9823
+------------------------------------------------------------
+-------------MKT-----------------LLVLALLLL-SVSVQ-AKVY-DRCEFA
+RILKKSGMDGYRGVSLANWVCLAKWESNFNTKATNYNPGSQSTDYGIFQINSRY---WCN
+DGK---TPKAVNACHISCKVLLDDDLSQDIECAKRVVRDPQGIKAWVAWKAHCQNKD-VS
+QYIRGCKL----------------------------------------------------
+-----
+>P37712|reviewed|Lysozyme C|taxID:9838
+------------------------------------------------------------
+--------------------------------------------------KVW-ERCALA
+RKLKELGMDGYRGVSLANWMCLTKWESDYNTDATNYNPSSESTDYGIFQINSRY---WCN
+NGK---TPHAVNGCGINCNVLLEDDITKAVQCAKRVVRDPQGVRAWVAWKNHCEGHD-VE
+QYVEGCDL----------------------------------------------------
+-----
+>P04421|reviewed|Lysozyme C|taxID:9913
+------------------------------------------------------------
+-------------MKA-----------------LVILGFLFL-SVAVQ-GKVF-ERCELA
+RTLKKLGLDGYKGVSLANWLCLTKWESSYNTKATNYNPSSESTDYGIFQINSKW---WCN
+DGK---TPNAVDGCHVSCRELMENDIAKAVACAKHIVSE-QGITAWVAWKSHCRDHD-VS
+SYVEGCTL----------------------------------------------------
+-----
+>Q06283|reviewed|Lysozyme C-2|taxID:9913
+------------------------------------------------------------
+-------------MKA-----------------LVILGFLFL-SVAVQ-GKVF-ERCELA
+RTLKKLGLDGYKGVSLANWLCLTKWESSYNTKATNYNPSSESTDYGIFQINSKW---WCN
+DGK---TPNAVDGCHVSCSELMENDIAKAVACAKHIVSE-QGITAWVAWKSHCRDHD-VS
+SYVEGCTL----------------------------------------------------
+-----
+>Q06284|reviewed|Lysozyme C-3|taxID:9913
+------------------------------------------------------------
+-------------MKA-----------------LIILGFLFL-SVAVQ-GKVF-ERCELA
+RTLKKLGLDGYKGVSLANWLCLTKWESSYNTKATNYNPSSESTDYGIFQINSKW---WCN
+DGK---TPNAVDGCHVSCSELMENDIAKAVACAKHIVSE-QGITAWVAWKSHCRDHD-VS
+SYVQGCTL----------------------------------------------------
+-----
+>Q06285|reviewed|Lysozyme C-1|taxID:9913
+------------------------------------------------------------
+-------------MKA-----------------LIILGFLFL-SVAVQ-GKVF-ERCELA
+RTLKKLGLDGYKGVSLANWLCLTKWESSYNTKATNYNPGSESTDYGIFQINSKW---WCN
+DGK---TPNAVDGCHVSCSELMENDIAKAVACAKQIVSE-QGITAWVAWKSHCRDHD-VS
+SYVEGCTL----------------------------------------------------
+-----
+>P17607|reviewed|Lysozyme C-1|taxID:9940
+------------------------------------------------------------
+-------------MKA-----------------LIILGLLCL-SVAVQ-GKVF-ERCELA
+RTLKELGLDGYKGVSLANWLCLTKWESSYNTKATNYNPGSESTDYGIFQINSKW---WCN
+DGK---TPNAVDGCHVSCSELMENNIAKAVACAKHIVSE-QGITAWVAWKSHCRDHD-VS
+SYVEGCSL----------------------------------------------------
+-----
+>P37713|reviewed|Lysozyme C-1|taxID:9925
+------------------------------------------------------------
+--------------------------------------------------KVF-ERCELA
+RTLKKLGLDDYKGVSLANWLCLTKWESGYNTKATNYNPGSESTDYGIFQINSKF---WCN
+DGK---TPDAVDGCHVSCSELMENDIEKAVACAKHIVSE-QGITAWVAWKSHCRDHD-VS
+SYVEGCTL----------------------------------------------------
+-----
+>Q9TUN1|reviewed|Lysozyme C-3|taxID:9940
+------------------------------------------------------------
+-------------MKA-----------------LVILGLLFL-SVAVQ-GKVF-ERCELA
+RTLKKLGLDDYKGVSLANWLCLSKWESGYNTKATNYNPGSESTDYGIFQINSKW---WCN
+DGK---TPNAVDGCHVSCSALMENDIEKAVACAKHIVSE-QGITAWVAWKSHCRVHD-VS
+SYVEGCKL----------------------------------------------------
+-----
+>Q6B410|reviewed|Lysozyme C, intestinal isozyme|taxID:9913
+------------------------------------------------------------
+-------------MKA-----------------VLILGLLLL-SVTVQ-GKKF-EKCELA
+RTLRRYGLDGYKGVSLANWMCLTYGESRYNTRVTNYNPGSKSTDYGIFQINSKW---WCN
+DGK---TPKAVNGCGVSCSAMLKDDITQAVACAKTIVSR-QGITAWVAWKNKCRNRD-VS
+SYIRGCKL----------------------------------------------------
+-----
+>P85045|reviewed|Lysozyme C|taxID:61428
+------------------------------------------------------------
+---------------S-----------------GKYISWEDS-CSYLQ-LQKY-ERCELA
+KALKKGGLADFKGYSLENWICTAFHESGYNTASTNYNPPDKSTDYGIFQINSRW---WCN
+DYK---TPRSKNTCNIDCKVLLGDDISPAIKCAKRVVSDPNGMGAWVAWKKYCKGKN-LS
+QWTQGCKL----------------------------------------------------
+-----
+>P11941|reviewed|Lysozyme C II|taxID:8022
+------------------------------------------------------------
+-------------MRA--------------------VVVLLL-VAVAS-AKVY-DRCELA
+RALKASGMDGYAGNSLPNWVCLSKWESSYNTQATNRNT-DGSTDYGIFQINSRY---WCD
+DGR---TPGAKNVCGIRCSQLLTADLTVAIRCAKRVVLDPNGIGAWVAWRLHCQNQD-LR
+SYVAGCGV----------------------------------------------------
+-----
+>P61944|reviewed|Lysozyme C|taxID:31033
+------------------------------------------------------------
+-------------MKI--------------------PVFLLL-LALAN-AKVF-QRCEWA
+RVLKARGMDGYRGISLADWVCLSKWESQYNTNAINHNT-DGSTDYGIFQINSRW---WCN
+DDR---IP-TRNACNIKCSALQTDDVTVAINCAKRVVSDPQGIRAWVAWNRHCQNRD-LS
+AYIAGCGL----------------------------------------------------
+-----
+>Q9DD65|reviewed|Lysozyme C|taxID:8255
+------------------------------------------------------------
+-------------MRT--------------------LVVLLL-VAVAN-ARVY-ERCEWA
+RLLRNQGMDGYRGISLANWVCLTEWESHYNTRATNHNT-DGSTDYGIFQINSRW---WCN
+DSQ---TP-TSNACNIRCSELLTDDVIVAIKCAKRVVRDPNGIGAWVAWRQHCQGQD-LS
+SYLAGCGL----------------------------------------------------
+-----
+>Q9PU28|reviewed|Lysozyme C|taxID:52904
+------------------------------------------------------------
+-------------MRC--------------------LLLLLL-VPVPG-AKVF-ERCEWA
+RLLKRNGMSNYRGISLADWVCLSQWESSYNTRATNRNT-DGSTDYGIFQINSRW---WCD
+NGQ---TP-TSNACGISCSALLTDDVGAAIICAKHVVRDPNGIGAWVAWKRHCQGQD-LS
+SYVAGCGV----------------------------------------------------
+-----
+>P51782|reviewed|Lysozyme C|taxID:9337
+------------------------------------------------------------
+-------------MKV-----------------LLLLGFIFC-SMAAH-GKRM-ERCEFA
+RRIKQLHLDGYHQISLANWVCLAQWESGFDTKATNYNPGDQSTDYGILQINSHY---WCD
+DGK---TPHAANECKVRCSELQEDDLVKAVNCAKKIV-DQQGIRAWVAWRNKCEGKD-LS
+KYLEGCHL----------------------------------------------------
+-----
+>P11375|reviewed|Lysozyme C|taxID:9793
+------------------------------------------------------------
+--------------------------------------------------KVF-SKCELA
+HKLKAQEMDGFGGYSLANWVCMAEYESNFNTRAFNGKNANGSYDYGLFQLNSKW---WCK
+DNK---RS-SSNACNIMCSKLLDDNIDDDISCAKRVVRDPKGMSAWKAWVKHCKDKD-LS
+EYLASCNL----------------------------------------------------
+-----
+>P11376|reviewed|Lysozyme C, milk isozyme|taxID:9796
+------------------------------------------------------------
+--------------------------------------------------KVF-SKCELA
+HKLKAQEMDGFGGYSLANWVCMAEYESNFNTRAFNGKNANGSSDYGLFQLNNKW---WCK
+DNK---RS-SSNACNIMCSKLLDENIDDDISCAKRVVRDPKGMSAWKAWVKHCKDKD-LS
+EYLASCNL----------------------------------------------------
+-----
+>P81708|reviewed|Lysozyme C, milk isozyme|taxID:9615
+------------------------------------------------------------
+--------------------------------------------------KIF-SKCELA
+RKLKSMGMDGFHGYSLANWVCMAEYESNFNTQAFNGRNSNGSSDYGIFQLNSKW---WCK
+SNS---HS-SANACNIMCSKFLDDNIDDDIACAKRVVKDPNGMSAWVAWVKHCKGKD-LS
+KYLASCNL----------------------------------------------------
+-----
+>P00708|reviewed|Lysozyme C|taxID:8932
+------------------------------------------------------------
+--------------------------------------------------KDI-PRCELV
+KILRRHGFEGFVGKTVANWVCLVKHESGYRTTAFNNNG-PNSRDYGIFQINSKY---WCN
+DGK---TRGSKNACNINCSKLRDDNIADDIQCAKKIAREARGLTPWVAWKKYCQGKD-LS
+SYVRGC------------------------------------------------------
+-----
+>Q91159|reviewed|Lysozyme C|taxID:30419
+------------------------------------------------------------
+-------------MLF----------------FGFLLAFLSA-VPGTE-GEII-PRCELV
+KILREHGFEGFEGTTIADWICLVQHESDYNTEAYNNN--GPSRDYGIFQINSKY---WCN
+DGK---TSGAVDGCHISCSELMTNDLEDDIKCAKKIARDAHGLTPWYGWKNHCEGRD-LS
+SYVKGC------------------------------------------------------
+-----
+>A6QQ77|reviewed|Sperm acrosome membrane-associated protein 3|taxID:9913
+------------------------------------------------------------
+-------------MEAGSWAPRRWPRPPGIVLLALASVLSSL-LSSGQ-ARVY-SRCELA
+RVLQDFGLEGYRGYSLADWICLAYFASGFNTGAVDHEA-DGSTNSGIFQINSRK---WCK
+NLN---PN-VPNLCQMYCSDLLNPNLKDTVICAMKITQEPQGLGSWEAWRHHCQGKD-LS
+DWVDGCEL----------------------------------------------------
+-----
+>B6VH75|reviewed|Sperm acrosome membrane-associated protein 3|taxID:9615
+------------------------------------------------------------
+-------------MEARSWAPRGHLCPPGSMLLAFASLLGCL-LTSSQ-ARVY-SRCELA
+KVLQDFGMEGYRGYTLADWVCLAYFTSGFNTAAVDHEA-DGSTNNGIFQINSRK---WCK
+NLN---TE-VPNVCQMYCSDLLNPNLKDTVICAMKITQQPQGLASWEAWRRHCQGKD-LT
+DWVDGCDL----------------------------------------------------
+-----
+>B6VH76|reviewed|Sperm acrosome membrane-associated protein 3|taxID:9598
+M--VSALRRAPLIRVHS-------------------SPVSSPSVSGPQRLVSCLSSQSSA
+LSQSGGGSTSAAGIEARSRALRRRWCPAGIMLLALVCLLSCL-LPSSE-AKLY-GRCELA
+RVLHDFGLDGYRGYSLADWVCLAYFTSGFNAAALDYEA-DGSTNNGIFQINSRR---WCS
+NLT---PN-VPNVCQMYCSDLLNPNLKDTVICAMKITQEPQGLGYWEAWRHHCQGKD-LT
+EWVDGCDF----------------------------------------------------
+-----
+>Q8IXA5|reviewed|Sperm acrosome membrane-associated protein 3|taxID:9606
+M--VSALRGAPLIRVHS-------------------SPVSSPSVSGPRRLVSCLSSQSSA
+LSQSGGGSTSAAGIEARSRALRRRWCPAGIMLLALVCLLSCL-LPSSE-AKLY-GRCELA
+RVLHDFGLDGYRGYSLADWVCLAYFTSGFNAAALDYEA-DGSTNNGIFQINSRR---WCS
+NLT---PN-VPNVCRMYCSDLLNPNLKDTVICAMKITQEPQGLGYWEAWRHHCQGKD-LT
+EWVDGCDF----------------------------------------------------
+-----
+>B6VH77|reviewed|Sperm acrosome membrane-associated protein 3|taxID:9600
+M--VSALREAPLIRVHS-------------------SPVSSPSVSGSRRPVSCLSSQSSA
+LSQSGGGSTSAAGIEARSRALRRRWCPAGIILLALISLLSCL-LPASE-AKVY-GRCELA
+RVLHDFGLDGYRGYSLADWVCLAYFTSGFNTAAVDHEA-DGSTNNGIFQINSRR---WCR
+NLT---PN-VPNVCQMYCS-----------------------------------------
+------------------------------------------------------------
+-----
+>B6VH79|reviewed|Sperm acrosome membrane-associated protein 3|taxID:9557
+M--ISALWGALLIRVHS-------------------SPVSSPSVSGPPRLVSCGSSQSSA
+LSQS-GGSTSTTGTEARSRALGRRWCPAAIMLLALVSLLSCL-LPSSE-AKVY-SRCELA
+RVLQDFGLDGYRGYSLADWVCLAYFTSGFNAAALDYEA-DGSTNNGIFQINSRR---WCS
+NLT---PN-VPNVCRMYCS-----------------------------------------
+------------------------------------------------------------
+-----
+>Q9D9X8|reviewed|Sperm acrosome membrane-associated protein 3|taxID:10090
+MGICMSMYTQVLVPVDADGDHHILWSRFYERWGSCFNPCAG--------LVNCLPPHSSA
+LYL-------CHRMEARSRAPRRQLCPPGITWLALAYLLSCL-LASSK-AKVF-SRCELA
+KEMHDFGLDGYRGYNLADWVCLAYYTSGFNTNAVDHEA-DGSTNNGIFQISSRR---WCR
+TLA---SN-GPNLCRIYCTDLLNNDLKDSIVCAMKIVQEPLGLGYWEAWRHHCQGRD-LS
+DWVDGCDF----------------------------------------------------
+-----
+>O75951|reviewed|Lysozyme-like protein 6|taxID:9606
+------------------------------------------------------------
+-------------MTK----------------ALLIYLVSSF-LALNQ-ASLI-SRCDLA
+QVLQLEDLDGFEGYSLSDWLCLAFVESKFNISKINENA-DGSFDYGLFQINSHY---WCN
+DYK---SY-SENLCHVDCQDLLNPNLLAGIHCAKRIVSGARGMNNWVEWRLHCSGRP-LF
+YWLTGCRLR---------------------------------------------------
+-----
+>Q29RT1|reviewed|Lysozyme-like protein 6|taxID:9913
+------------------------------------------------------------
+-------------MTS----------------PLLISLASCL-VAVNQ-ASLI-GRCDLA
+KVLHQEDLDGFEGYSLTDWLCLAFVESDFNITKVNENT-DGSFDYGIFQINSHY---WCN
+DYQ---SR-TENNCQVDCQELLSPNLLAIINCAKKIVSGAGGMKNWVKWRLHCAGRP-LS
+YWMTGCHLA---------------------------------------------------
+-----
+>Q9DA11|reviewed|Lysozyme-like protein 6|taxID:10090
+------------------------------------------------------------
+-------------MLK----------------ALFICVASCL-LVVND-GNII-HRCSLA
+KILYEEDLDGFEGYSLPDWLCLAFVESNFNISKVNENV-DGSFDYGIFQINSRY---WCN
+DYQ---SH-SENFCHVDCQELLSPNLISTIHCAKKIVSGPGGMKNWVEWKLHCLGRP-LS
+YWMTGCHLG---------------------------------------------------
+-----
+>P00709|reviewed|Alpha-lactalbumin|taxID:9606
+------------------------------------------------------------
+-------------MRF----------------FVPLFLVGIL-FPAIL-AKQF-TKCELS
+QLLKD--IDGYGGIALPELICTMFHTSGYDTQAIVEN--NESTEYGLFQISNKL---WCK
+SSQ---VPQSRNICDISCDKFLDDDITDDIMCAKKILDI-KGIDYWLAHKALCTEK--LE
+QWL--CEKL---------------------------------------------------
+-----
+>P12065|reviewed|Alpha-lactalbumin|taxID:9556
+------------------------------------------------------------
+--------------------------------------------------KQF-TKCELS
+QNLYD--IDGYGRIALPELICTMFHTSGYDTQAIVEN--NESTEYGLFQISNAL---WCK
+SSQ---SPQSRNICDITCDKFLDDDITDDIMCAKKILDI-KGIDYWIAHKALCTEK--LE
+QWL--CEKE---------------------------------------------------
+-----
+>P00710|reviewed|Alpha-lactalbumin|taxID:9838
+------------------------------------------------------------
+--------------------------------------------------KQF-TKCKLS
+DELKD--MNGHGGITLAEWICIIFHMSGYDTETVVSN--NGNREYGLFQINNKI---WCR
+DNE---NLQSRNICDISCDKFLDDDLTDDKMCAKKILDK-EGIDYWLAHKPLCSEK--LE
+QWQ--CEKW---------------------------------------------------
+-----
+>P08334|reviewed|Alpha-lactalbumin A|taxID:9796
+------------------------------------------------------------
+--------------------------------------------------KQF-TKCELS
+QVLKS--MDGYKGVTLPEWICTIFHSSGYDTQTIVKN--NGKTEYGLFQINNKM---WCR
+DNQ---ILPSRNICGISCDKFLDDDLTDDVMCAKKILDS-EGIDYWLAHKPLCSEK--LE
+QWL--CEEL---------------------------------------------------
+-----
+>P28546|reviewed|Alpha-lactalbumin|taxID:9793
+------------------------------------------------------------
+--------------------------------------------------KQF-TKCELS
+QVLKS--MDGYKGVTLPEWICTIFHSSGYDTQTIVKN--NGKTEYGLFQINNKM---WCR
+DNQ---ILPSRNICGISCNKFLDDDLTDDVMCAKKILDS-EGIDYWLAHKPLCSEK--LE
+QWL--CEEL---------------------------------------------------
+-----
+>P18137|reviewed|Alpha-lactalbumin|taxID:9823
+------------------------------------------------------------
+-------------MMS----------------FVSLLVVGIL-FPAIQ-AKQF-TKCELS
+QVLKD--MDGYGDITLPEWICTIFHISGYDTKTIVHD--NGSTEYGLFQINNKL---WCR
+DNQ----IQSKNICGISCDKFLDDDLTDDMMCAKKILDN-EGIDYWLAHKALCSEK--LD
+QWL--CEKM---------------------------------------------------
+-----
+>Q9N2G9|reviewed|Alpha-lactalbumin|taxID:9615
+------------------------------------------------------------
+-------------MMS----------------FVSLLLVSIL-FPAIQ-AKQF-TKCELP
+QVLKD--MDGFGGIALPEWICTIFHTSGYDTQTIVNN--NGGTDYGLFQISNKF---WCK
+DDQ---NLQSRNICDISCDKFLDDDLTDDMICAKKILDK-EGIDYWLAHKPLCSEK--LE
+QWR--CEKL---------------------------------------------------
+-----
+>P00711|reviewed|Alpha-lactalbumin|taxID:9913
+------------------------------------------------------------
+-------------MMS----------------FVSLLLVGIL-FHATQ-AEQL-TKCEVF
+RELKD--LKGYGGVSLPEWVCTTFHTSGYDTQAIVQN--NDSTEYGLFQINNKI---WCK
+DDQ---NPHSSNICNISCDKFLDDDLTDDIMCVKKILDK-VGINYWLAHKALCSEK--LD
+QWL--CEKL---------------------------------------------------
+-----
+>Q9TSR4|reviewed|Alpha-lactalbumin|taxID:30521
+------------------------------------------------------------
+-------------MMS----------------FVSLLLVGIL-FHATQ-AEQL-TKCEVF
+RELKD--LKGYGGVSLPEWVCTTFHTSGYDTQAIVQN--NDSTEYGLFQINNKI---WCK
+DDQ---NPHSSDICNISCDKFLDDDLTDDIMCVKKILDK-VGINYWLAHKALCSEK--LD
+QWL--CEKL---------------------------------------------------
+-----
+>P00712|reviewed|Alpha-lactalbumin|taxID:9925
+------------------------------------------------------------
+-------------MMS----------------FVSLLLVGIL-FHATQ-AEQL-TKCEVF
+QKLKD--LKDYGGVSLPEWVCTAFHTSGYDTQAIVQN--NDSTEYGLFQINNKI---WCK
+DDQ---NPHSRNICNISCDKFLDDDLTDDIVCAKKILDK-VGINYWLAHKALCSEK--LD
+QWL--CEKL---------------------------------------------------
+-----
+>P09462|reviewed|Alpha-lactalbumin|taxID:9940
+------------------------------------------------------------
+-------------MMS----------------FVSLLLVGIL-FHATQ-AEQL-TKCEVF
+QELKD--LKDYGGVSLPEWVCTAFHTSGYDTQAIVQN--NDSTEYGLFQINNKI---WCK
+DDQ---NPHSRNICNISCDKFLDDDLTDDIMCVKKILDK-VGINYWLAHKALCSEK--LD
+QWL--CEKL---------------------------------------------------
+-----
+>Q9TSN6|reviewed|Alpha-lactalbumin|taxID:89462
+------------------------------------------------------------
+-------------MMS----------------FVSLLLVGIL-FHATQ-AEQL-TKCEVF
+RELKD--LKDYGGVSLPEWVCTAFHTSGYDTQAIVQN--NDSTEYGLFQINNKI---WCK
+DDQ---NPHSSNICNISCDKFLDDDLTDDIMCVKKILDK-VGINYWLAHKALCSEK--LD
+QWL--CEKL---------------------------------------------------
+-----
+>P00714|reviewed|Alpha-lactalbumin|taxID:10116
+------------------------------------------------------------
+-------------MMR----------------FVPLFLACIS-LPAFQ-ATEF-TKCEVS
+HAIED--MDGYQGISLLEWTCVLFHTSGYDSQAIVKN--NGSTEYGLFQISNRN---WCK
+SSE---FPESENICDISCDKFLDDELADDIVCAKKIVAI-KGIDYWKAHKPMCSEK--LE
+QWR--CEKPGAPALVV-------PALNSETPVP---------------------------
+-----
+>P29752|reviewed|Alpha-lactalbumin|taxID:10090
+------------------------------------------------------------
+-------------MMH----------------FVPLFLVCILSLPAFQ-ATEL-TKCKVS
+HAIKD--IDGYQGISLLEWACVLFHTSGYDTQAVVND--NGSTEYGLFQISDRF---WCK
+SSE---FPESENICGISCDKLLDDELDDDIACAKKILAI-KGIDYWKAYKPMCSEK--LE
+QWR--CEKP---------------------------------------------------
+-----
+>P00713|reviewed|Alpha-lactalbumin|taxID:10141
+------------------------------------------------------------
+-------------MMS----------------FFPLLLVGIL-FPAVQ-AKQL-TKCALS
+HELND--LAGYRDITLPEWLCIIFHISGYDTQAIVKN--SDHKEYGLFQINDKD---FCE
+SST---TVQSRNICDISCDKLLDDDLTDDIMCVKKILDI-KGIDYWLAHKPLCSDK--LE
+QWY--CEAQ---------------------------------------------------
+-----
+>P00716|reviewed|Alpha-lactalbumin|taxID:9986
+------------------------------------------------------------
+-------------MMP----------------LVPLLLVSIV-FPGIQ-ATQL-TRCELT
+EKLKE--LDGYRDISMSEWICTLFHTSGLDTKITVNN--NGSTEYGIFQISDKL---WCV
+SKQ---NPQSKNICDTPCENFLDDNLTDDVKCAMKILDK-EGIDHWLAHKPLCSEN--LE
+QWV--CKK----------------------------------------------------
+-----
+>P07458|reviewed|Alpha-lactalbumin|taxID:1960652
+------------------------------------------------------------
+--------------------------------------------------IDY-RKCQAS
+QILKEHGMD--KVIPLPELVCTMFHISGLSTQAEVNN--HSNKEYGIFQISNDG---WCA
+EKQ---EDVANSVCGILCSKFLDDDITDDIECAKKILQLPEGLGYWKAHETFCLED--LD
+QWR--C------------------------------------------------------
+-----
+>Q06655|reviewed|Alpha-lactalbumin|taxID:9315
+------------------------------------------------------------
+-------------MMS----------------LLSLLLLGIA-LPATQ-AIDY-RKCQAS
+QILKEHGMD--KVIPLPELVCTMFHISGLSTQAEVNN--HSNKEYGIFQISNNG---WCA
+EKQ---EDVANSVCGILCSKFLDDDITDDIECAKKILQLPEGLGYWKAHETFCIED--LD
+QWR--C------------------------------------------------------
+-----
+>P19122|reviewed|Alpha-lactalbumin I|taxID:9317
+------------------------------------------------------------
+--------------------------------------------------IDY-RKCQAS
+QILKEHGMD--KVIPLPELVCTMFHISGLSPQAEV-------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----
+>Q29145|reviewed|Alpha-lactalbumin|taxID:9337
+------------------------------------------------------------
+-------------MMS----------------LLPLLLIGIV-LPATQ-AKDY-GKCELN
+QILRERGVD--KVISLPELICTMFHSSGFSTETEVDN--NNHKEYGIFQISSNG---WCA
+EKQ---EDVERSVCGILCSKLLDDDITDDIVCAKKILQLPERLDHWKAHNTFCREN--LD
+QWN--C------------------------------------------------------
+-----
+>P81646|reviewed|Alpha-lactalbumin|taxID:49271
+------------------------------------------------------------
+--------------------------------------------------KVF-EKCELS
+QMLKANGLDGFQGITLEEWICIAFHESGFDSRALNYY--NGSSSHGLFQINRQY---WCD
+GQDAKSTEPSVNACQISCDKLRDDDIEDDIKCVKKILKESQGITAWEAWQPFCIAD--LD
+QWK--C------------------------------------------------------
+-----
+>D4ABW7|reviewed|Lysozyme-like protein 4|taxID:10116
+------------------------------------------------------------
+-------------MQL----------------YLVLLLISYL-LTPIG-ASIL-GRCVVA
+KKLYDGGLNYFEGYSLENWVCLAYFESKFNPSAVYENSRDGSTGFGLFQIRDNE---WCD
+H--------GKNLCSVSCTALLNPNLKDTIECAKKIVKGKQGMGAWPVWSRNCQLSDILD
+RWLDGCEL----------------------------------------------------
+-----
+>Q9D925|reviewed|Lysozyme-like protein 4|taxID:10090
+------------------------------------------------------------
+-------------MQL----------------YLVLLLISYL-LTPIG-ASIL-GRCTVA
+KMLYDGGLNYFEGYSLENWVCLAYFESKFNPSAVYEDPQDGSTGFGLFQIRDNE---WCG
+H--------GKNLCSVSCTALLNPNLKDTIQCAKKIVKGKHGMGAWPIWSKNCQLSDVLD
+RWLDGCDL----------------------------------------------------
+-----
+>Q96KX0|reviewed|Lysozyme-like protein 4|taxID:9606
+------------------------------------------------------------
+-------------MKA----------------SVVLSLLGYL-VVPSG-AYIL-GRCTVA
+KKLHDGGLDYFEGYSLENWVCLAYFESKFNPMAIYENTREGYTGFGLFQMRGSD---WCG
+DH-------GRNRCHMSCSALLNPNLEKTIKCAKTIVKGKEGMGAWPTWSRYCQYSDTLA
+RWLDGCKL----------------------------------------------------
+-----
+>C0HLB7|reviewed|Lysozyme 2|taxID:13632
+M-----------------------------------------------------------
+-------------LKL----------------TLTILAAVLL-VTPAF-GKVY-TRCSLA
+REMHTLGVP---KNQLARWTCIAEHESAYNTKAVGSMNSNGSRDYGIFQINNYY---WCS
+PPS---GAFSYNECKIKCADFLVDSIEPAVKCAQLVLRQ-QGWSAWSTWK-YCDHT--LP
+SIDD-CF-----------------------------------------------------
+-----
+>D9J142|reviewed|Inactive lysozyme 1A|taxID:13632
+------------------------------------------------------------
+-------------MKF----------------FIVLLAALAL-FTPAF-GKTF-TRCSLA
+KEVYALGVP---KSELPQWTCIAEHGSSYRTNVVGPTNSNGSNDYGIFQINNYY---WCQ
+PAN---GRFSYNECKLSCNDLLTDNISNSVKCARKIKSQ-QGWTAWSTWK-YCSGS--LP
+SIND-CF-----------------------------------------------------
+-----
+>Q7YT16|reviewed|Lysozyme 1|taxID:7370
+------------------------------------------------------------
+-------------MKF----------------FIVLVAALAL-AAPAM-GKTF-TRCSLA
+REMYALGVP---KSELPQWTCIAEHESSYRTNVVGPTNSNGSNDYGIFQINNYY---WCQ
+PSN---GRFSYNECHLSCDALLTDNISNSVTCARKIKSQ-QGWTAWSTWK-YCSGS--LP
+SIND-CF-----------------------------------------------------
+-----
+>P29615|reviewed|Lysozyme P|taxID:7227
+------------------------------------------------------------
+-------------MKA----------------FLVICALTLT-AVATQ-ARTM-DRCSLA
+REMSKLGVP---RDQLAKWTCIAQHESSFRTGVVGPANSNGSNDYGIFQINNKY---WCK
+PAD---GRFSYNECGLSCNALLTDDITNSVKCARKIQRQ-QGWTAWSTWK-YCSGS--LP
+SINS-CF-----------------------------------------------------
+-----
+>P37160|reviewed|Lysozyme S|taxID:7227
+------------------------------------------------------------
+-------------MKA----------------FFALV-LLAI-AAPALAGRTL-DRCSLA
+REMADLGVP---RDQLDKWTCIAQHESDYRTWVVGPANSDGSNDYGIFQINDLY---WCQ
+-AD---GRFSYNECGLSCNALLTDDITNSVRCAQKVLSQ-QGWSAWAVWH-YCSGW--LP
+SIDE-CF-----------------------------------------------------
+-----
+>P83972|reviewed|Lysozyme D|taxID:7227
+------------------------------------------------------------
+-------------MKA----------------FIVLV-ALAC-AAPAF-GRTM-DRCSLA
+REMSNLGVP---RDQLARWACIAEHESSYRTGVVGPENYNGSNDYGIFQINDYY---WCA
+PPS---GRFSYNECGLSCNALLTDDITHSVRCAQKVLSQ-QGWSAWSTWH-YCSGW--LP
+SIDD-CF-----------------------------------------------------
+-----
+>Q08694|reviewed|Lysozyme B|taxID:7227
+------------------------------------------------------------
+-------------MKA----------------FIVLV-ALAL-AAPAL-GRTM-DRCSLA
+REMSNLGVP---RDQLARWACIAEHESSYRTGVVGPENYNGSNDYGIFQINDYY---WCA
+PPS---GRFSYNECGLSCNALLTDDITHSVRCAQKVLSQ-QGWSAWSTWH-YCSGW--LP
+SIDD-CF-----------------------------------------------------
+-----
+>P37161|reviewed|Lysozyme X|taxID:7227
+------------------------------------------------------------
+-------------MRA----------------LLGIC-VLAL-VTPAVLGRTM-DRCSLA
+REMANMGVS---RDQLSKWACIAEHESSYRTGVVGPPNTDGSNDYGIFQINDMY---WCQ
+PSS---GKFSHNGCDVSCNALLTDDIKSSVRCALKVLGQ-QGWSAWSTWH-YCSGY--LP
+PIDD-CFV----------------------------------------------------
+-----
+>D9J143|reviewed|Lysozyme 1B|taxID:13632
+------------------------------------------------------------
+-------------MKF---------------INFFVIALMAY-ANCAW-AKTF-TRCSLA
+RAMYALGVP---KSELARWTCIAKYESHYRTHVVGPANTDGSHDYGIFQINDRY---WCK
+PSN---GRSSHNGCNVYCDDLLEDDISESVYCAQHVKSK-QGWSAWTTWA-KCNGN--LP
+SIDE-CF-----------------------------------------------------
+-----
+>P05105|reviewed|Lysozyme|taxID:7123
+------------------------------------------------------------
+-------------MTK----------------YVILLAVLAF-ALHCD-AKRF-TRCGLV
+QELRRLGFD---ETLMSNWVCLVENESGRFTDKIGKVNKNGSRDYGLFQINDKY---WCS
+KGT---TP--GKDCNVTCNQLLTDDISVAATCAKKIYKR-HKFDAWYGWKNHCQHG--LP
+DISD-C------------------------------------------------------
+-----
+>Q7SID7|reviewed|Lysozyme|taxID:34739
+------------------------------------------------------------
+--------------------------------------------------KRF-TRCGLV
+NELRKQGFD---ENLMRDWVCLVENESARYTDKIANVNKNGSRDYGLFQINDKY---WCS
+KGS---TP--GKDCNVTCSQLLTDDITVASTCAKKIYKR-TKFDAWSGWDNHCNHS--NP
+DISS-C------------------------------------------------------
+-----
+>P48816|reviewed|Lysozyme|taxID:7091
+------------------------------------------------------------
+-------------MQK-----------------LIIFALVVL-CVGSE-AKTF-TRCGLV
+HELRKHGFE---ENLMRNWVCLVEHESSRDTSKTNT-NRNGSKDYGLFQINDRY---WCS
+KGA---SP--GKDCNVKCSDLLTDDITKAAKCAKKIYKR-HRFDAWYGWKNHCQGS--LP
+DISS-C------------------------------------------------------
+-----
+>P50717|reviewed|Lysozyme|taxID:39466
+------------------------------------------------------------
+-------------MQK---------------LAVFLFAIAAV-CIHCE-AKYYSTRCDLV
+RELRKQGFP---ENQMGDWVCLVENESGRKTDKVGPVNKNGSKDYGLFQINDKY---WCS
+NTR---TP--GKDCNVTCADLLLDDITKASTCAKKIFKR-HNFRAWYGWRNHCDGKT-LP
+DTSN-C------------------------------------------------------
+-----
+>P50718|reviewed|Lysozyme|taxID:7111
+------------------------------------------------------------
+-------------MQK---------------LRVFLLALAAL-CISCE-AKYFATNCELV
+HELRRQGFP---EDKMRDWVCLIQNESGRNTSKMGTINKNGSRDYGLFQINDKY---WCS
+KTS---TP--GKDCNVTCAEMLLDDITKASKCAKKIYKR-HKFQAWYGWRNHCQGT--LP
+DISK-C------------------------------------------------------
+-----
+>P82174|reviewed|Lysozyme|taxID:7137
+------------------------------------------------------------
+--------------------------------------------------KTF-TRCELV
+QALRRQGFD---EAKLRDWVCLVENESRGRTDIVGKPNKNGSRDYGLFQINDKY---WCS
+NTS---KA--GKDCNITCSQLLTDDITVASKCAKKVYKR-HNFMAWYGWRNHCQNKP-LP
+DISK-C------------------------------------------------------
+-----
+>Q17005|reviewed|Lysozyme c-1|taxID:7165
+------------------------------------------------------------
+-------------MKV---------------FSTVLLAIVAC-CAVAE-AKTF-GKCELA
+KALANNGIA---KASLPDWVCLVQNESAFSTSATNKNK-NGSTDYGIFQINNKY---WCD
+SGY------GSNDCKIACKNLLNDDITDDIKCAKLIHKR-HGFNAWYGWKNHCNGKK-LP
+NVSS-CF-----------------------------------------------------
+-----
+>Q54F36|reviewed|Lysozyme C-like protein DDB_G0291137|taxID:44689
+M-----------------------------------------------------------
+-------------FKT---------------LSKSIGFLVAI-IALVK-GDTY--TCSQM
+QSLAE---GYFRGPTLTTMLCISYYESTYNTQAINPT----SKAAGLFQILPEHCGELCK
+TCT---TP----------SDLLNPTI--NTECAKSILNS-QGFKAWTTYA---SGD--CK
+NWNK-CVAPSASTHAASTHGSTGPSTHGSTTHGSTTSTTYTSGASSGLFDFKANNGGGQD
+MVKYF
